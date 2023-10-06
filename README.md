@@ -5,19 +5,15 @@ src="https://img.shields.io/github/followers/GenilsonDC?logo=github&style=for-th
 
 Objetivo é ajudar na personalização do seu profile adicionando ícones de suas skills, causando maior e melhor impacto visual 🤩.
 
-> ##### Caso sinta falta de alguma imagem, fique a vontade para colaborar com o projeto ❤️‍🔥 
+> ##### Caso sinta falta de alguma imagem, fique a vontade para colaborar com o projeto ❤️‍🔥
 >
 > Ou mande uma mensagem no meu LinkedIn [![linkedin](icons/linkedin.png)](https://www.linkedin.com/in/genilson-do-carmo-8a42b89a/)
-
-
 
 🦦**Dica:** Retire as chaves <img /> que não vai utilizar
 
 ```
-<img src="https://github.com/GenilsonDC/Skills_icons_48x48/blob/main/icons/adobePremiere.png?raw=true"  alt="Adobre Premier" /> <img src="https://github.com/GenilsonDC/Skills_icons_48x48/blob/main/icons/adobeXD.png?raw=true"  alt="Adobre XD" /> <img src="https://github.com/GenilsonDC/Skills_icons_48x48/blob/main/icons/android.png?raw=true"  alt="Android" /> 
+<img src="https://github.com/GenilsonDC/Skills_icons_48x48/blob/main/icons/adobePremiere.png?raw=true"  alt="Adobre Premier" /> <img src="https://github.com/GenilsonDC/Skills_icons_48x48/blob/main/icons/adobeXD.png?raw=true"  alt="Adobre XD" /> <img src="https://github.com/GenilsonDC/Skills_icons_48x48/blob/main/icons/android.png?raw=true"  alt="Android" />
 ```
-
-
 
 ## Skills
 
@@ -26,8 +22,6 @@ Objetivo é ajudar na personalização do seu profile adicionando ícones de sua
 
 </p>
 
-<a href="http://www.github.com/GenilsonDC"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GenilsonDC&stroke=ffffff&background=181824&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-
-</a>
+<a href="http://www.github.com/GenilsonDC"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GenilsonDC&stroke=ffffff&background=181824&ring=6f66f1&fire=ff880a&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=0ab9ff&sideLabels=ffffff&dates=ceff0a&hide_border=true" /></a>
 
 [![linkedin](icons/linkedin.png)](https://www.linkedin.com/in/genilson-do-carmo-8a42b89a/) [![instagram](icons/instagram.png)](https://www.instagram.com/genilson_carmo/)
